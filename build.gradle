@@ -19,6 +19,7 @@ dependencies {
     testImplementation 'com.aventstack:extentreports:5.1.2'
     testImplementation 'org.apache.logging.log4j:log4j-api:2.25.4'
     testImplementation 'org.apache.logging.log4j:log4j-core:2.25.4'
+    testImplementation 'io.rest-assured:json-schema-validator:6.3.0'
 }
 
 test {
